@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kacper//\\Test//\\": "src/"
+            "kacper\\Test\\": "src/"
         }
     },
     "require": {}
