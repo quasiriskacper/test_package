@@ -8,5 +8,10 @@
             "email": "kacper.dygas@quasiris.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "test//\\": "src/"
+        }
+    },
     "require": {}
 }
