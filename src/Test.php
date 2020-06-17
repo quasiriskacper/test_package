@@ -1,5 +1,5 @@
 <?php
-namespace Test;
+namespace kacper\Test;
 
 class Test {
 	public function getText($text) {
