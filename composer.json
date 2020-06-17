@@ -1,0 +1,13 @@
+{
+    "name": "kacper/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kacper Dygas",
+            "email": "kacper.dygas@quasiris.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
